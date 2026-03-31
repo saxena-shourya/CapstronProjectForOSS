@@ -2,7 +2,7 @@
 
 ---
 
-## 👤 Student Details
+## Student Details
 - Name: Shourya Saxena  
 - Registration No.: 24BCE11475  
 - Course: Open Source Software  

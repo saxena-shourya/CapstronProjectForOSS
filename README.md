@@ -1,4 +1,4 @@
-# OSS Audit Project – Python
+# OSS Audit Project
 
 ---
 
